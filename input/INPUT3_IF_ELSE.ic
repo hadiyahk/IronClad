@@ -1,0 +1,9 @@
+fn main(){
+let age = 3;
+if age == 4 {
+println("age is 4");
+}
+else {
+print("number is not 3");
+}
+}
